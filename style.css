@@ -1,0 +1,31 @@
+body {
+ background-image:url("https://learn.algoritmika.org/uploads/student/239620/6-1654878198.png");
+ margin: 0px;
+}
+
+header{
+    background-color: violet;
+    padding: 10px;
+}
+
+.center{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.logo{
+    float: left;
+}
+
+main{
+    background-color: blue;
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+article img{
+    margin: 0 auto;
+    width: 85%;
+    display: block;
+}
